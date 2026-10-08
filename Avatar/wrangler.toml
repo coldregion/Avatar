@@ -1,0 +1,8 @@
+name = "avatar"
+main = "_worker.js"
+compatibility_date = "2025-11-04"
+keep_vars = true
+
+#[[kv_namespaces]]
+#binding = "KV"			# نام اتصال KV باید دقیقاً KV باشد
+#id = ""				# شناسهٔ فضای نام KV
